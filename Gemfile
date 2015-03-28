@@ -43,3 +43,7 @@ group :development, :test do
   gem 'spring'
 end
 
+gem "rest-client"
+gem "delayed_job_active_record"
+gem "rack-mini-profiler"
+
